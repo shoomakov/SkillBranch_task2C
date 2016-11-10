@@ -1,3 +1,1 @@
-# Skillbranch_task2B
-# SkillBranch_task2C
-# SkillBranch_task2C_
+# Skillbranch_task2C
